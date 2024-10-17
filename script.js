@@ -50,7 +50,7 @@ function clearForm() {
 // get meal list that matches with the ingredients
 function getMealList(){
     let searchInputTxt = document.getElementById('search-input').value.trim();
-    fetch(`https://phase-1-project-fbbn.onrender.com/meals${searchInputTxt}`)
+    fetch(`https://www.themealdb.com/api/json/v1/1/filter.php?i=${searchInputTxt}`)
     .then(response => response.json())
     .then(data => {
         let html = "";
@@ -84,7 +84,7 @@ function getMealRecipe(e){
     e.preventDefault();
     if(e.target.classList.contains('recipe-btn')){
         let mealItem = e.target.parentElement.parentElement;
-        fetch(`https://phase-1-project-fbbn.onrender.com/meals${mealItem.dataset.id}`)
+        fetch(`https://www.themealdb.com/api/json/v1/1/filter.php?i=${mealItem.dataset.id}`)
         .then(response => response.json())
         .then(data => mealRecipeModal(data.meals));
     }

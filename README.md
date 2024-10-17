@@ -1,6 +1,6 @@
 # Random Meal Generator
 
-This JavaScript code fetches a random meal from (https://phase-1-project-fbbn.onrender.com/meals) and displays its details including the name, origin, ingredients, an image, and a link to a related YouTube video.
+This JavaScript code fetches a random meal from (https://www.themealdb.com/api/json/v1/1/filter.php?i=) and displays its details including the name, origin, ingredients, an image, and a link to a related YouTube video.
 
 
 ## Live Demo
