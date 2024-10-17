@@ -1,0 +1,137 @@
+{
+  "meals": [
+    {
+      "id": "2",
+      "name": "Diet Pizza",
+      "ingredients": [
+        "Pizza Dough",
+        "Tomato Sauce",
+        "Permasion",
+        "Bell Peppers",
+        "Olives"
+      ],
+      "image": "https://images.stockcake.com/public/c/d/3/cd35405d-d659-4181-8248-ef2b4f9611af_large/tomato-basil-pizza-stockcake.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Sushi",
+      "ingredients": [
+        "Rice",
+        "Nori",
+        "Fish",
+        "Soy Sauce",
+        "Wasabi"
+      ],
+      "image": "https://images.stockcake.com/public/d/7/a/d7a135aa-f693-4bea-b6f1-de6805b13b79_large/assorted-sushi-platter-stockcake.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Vegetarian Pizza",
+      "ingredients": [
+        "Pizza Dough",
+        "Tomato Sauce",
+        "Mozzarella",
+        "Bell Peppers",
+        "Olives"
+      ],
+      "image": "https://images.stockcake.com/public/b/2/3/b23784a1-908d-4291-8cc7-f8c6fe93ce9e_large/garnishing-fresh-pizza-stockcake.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Beef Tacos",
+      "ingredients": [
+        "Tortillas",
+        "Ground Beef",
+        "Lettuce",
+        "Cheese",
+        "Salsa"
+      ],
+      "image": "https://images.stockcake.com/public/e/d/4/ed411337-358e-4917-9eff-d0341f170c7c_large/delicious-tacos-served-stockcake.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Grilled Salmon",
+      "ingredients": [
+        "Salmon Fillets",
+        "Lemon",
+        "Garlic",
+        "Olive Oil",
+        "Parsley"
+      ],
+      "image": "https://images.stockcake.com/public/5/3/f/53f425c5-8dea-46e0-869b-cbf16a6907c2_large/grilled-salmon-fillets-stockcake.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Caesar Salad",
+      "ingredients": [
+        "Romaine Lettuce",
+        "Croutons",
+        "Caesar Dressing",
+        "Parmesan",
+        "Chicken"
+      ],
+      "image": "https://images.stockcake.com/public/b/1/1/b11d6b31-5679-41e0-a920-c3d59cc3c3ed_large/delicious-caesar-salad-stockcake.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Pad Thai",
+      "ingredients": [
+        "Rice Noodles",
+        "Shrimp",
+        "Tofu",
+        "Peanuts",
+        "Bean Sprouts",
+        "Tamarind Sauce"
+      ],
+      "image": "https://images.stockcake.com/public/d/a/1/da12ef12-5d52-4cb8-830d-e3cfaff40042_large/savory-pad-thai-stockcake.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Beef Stroganoff",
+      "ingredients": [
+        "Beef",
+        "Mushrooms",
+        "Onions",
+        "Sour Cream",
+        "Egg Noodles"
+      ],
+      "image": "https://images.stockcake.com/public/a/4/7/a47af151-c387-41eb-875d-22c0fde8c062_large/savory-beef-wellington-stockcake.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Margherita Pizza",
+      "ingredients": [
+        "Pizza Dough",
+        "Tomato Sauce",
+        "Mozzarella",
+        "Basil",
+        "Olive Oil"
+      ],
+      "image": "https://images.stockcake.com/public/e/9/1/e9169109-aa8c-48d1-afd2-3732026b979d_large/delicious-margherita-pizza-stockcake.jpg"
+    },
+    {
+      "id": "fb0c",
+      "name": "Diet Pizza",
+      "ingredients": [
+        "Pizza Dough",
+        "Tomato Sauce",
+        "Permasion",
+        "Bell Peppers",
+        "Olives"
+      ],
+      "image": "https://images.stockcake.com/public/c/d/3/cd35405d-d659-4181-8248-ef2b4f9611af_large/tomato-basil-pizza-stockcake.jpg"
+    },
+    {
+      "id": "afa4",
+      "name": "Diet Pizza",
+      "ingredients": [
+        "Pizza Dough",
+        "Tomato Sauce",
+        "Permasion",
+        "Bell Peppers",
+        "Olives"
+      ],
+      "image": "https://images.stockcake.com/public/c/d/3/cd35405d-d659-4181-8248-ef2b4f9611af_large/tomato-basil-pizza-stockcake.jpg"
+    }
+  ]
+}
