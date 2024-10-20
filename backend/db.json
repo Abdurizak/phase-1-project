@@ -110,28 +110,42 @@
       "image": "https://images.stockcake.com/public/e/9/1/e9169109-aa8c-48d1-afd2-3732026b979d_large/delicious-margherita-pizza-stockcake.jpg"
     },
     {
-      "id": "fb0c",
-      "name": "Diet Pizza",
-      "ingredients": [
-        "Pizza Dough",
-        "Tomato Sauce",
-        "Permasion",
-        "Bell Peppers",
-        "Olives"
+      "id":"11",
+      "name": "Waffles",
+      "Ingredients":[
+        "Flour",
+        "Sugar",
+        "Water",
+        "Salt",
+        "Oil"
       ],
-      "image": "https://images.stockcake.com/public/c/d/3/cd35405d-d659-4181-8248-ef2b4f9611af_large/tomato-basil-pizza-stockcake.jpg"
+      "image": "https://media.istockphoto.com/id/1161996776/photo/stack-of-pancakes-with-maple-syrup-and-fresh-blueberries.jpg?s=612x612&w=0&k=20&c=YHiFq3dlQwXbQtYnxYFrAXzmai31lTRTvmgD0zFKwMM="
     },
     {
-      "id": "afa4",
-      "name": "Diet Pizza",
-      "ingredients": [
-        "Pizza Dough",
-        "Tomato Sauce",
-        "Permasion",
-        "Bell Peppers",
-        "Olives"
+      "id":"12",
+      "name": "Burger",
+      "Ingredients":[
+      "Buns",
+      "Meat",
+      "Salad",
+      "Tomato Sauce",
+      "Mayoinnaise",
+      "Onions",
+      "Bacon"
       ],
-      "image": "https://images.stockcake.com/public/c/d/3/cd35405d-d659-4181-8248-ef2b4f9611af_large/tomato-basil-pizza-stockcake.jpg"
+      "image": "https://media.istockphoto.com/id/1398630614/photo/bacon-cheeseburger-on-a-toasted-bun.jpg?s=612x612&w=0&k=20&c=3HWrUVnS-FsJETFlCWnDH2-1ekJ0ic3T3XPrhLjpo98="
+    },
+    {
+      "id":"13",
+      "name": "Cheese Salad",
+      "Ingredients":[
+      "Salad",
+      "Cheese",
+      "Walnuts",
+      "Cranberry"
+      ],
+      "image": "https://media.istockphoto.com/id/1011857262/photo/fresh-pears-blue-cheese-salad-with-vegetable-green-mix-walnuts-cranberry-healthy-food.jpg?s=612x612&w=0&k=20&c=JWP9nyXFo6sYLJUnkskWlDKvzdrhMDo6mfHFlZQaupo="
     }
+    
   ]
 }
