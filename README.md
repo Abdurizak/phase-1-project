@@ -4,7 +4,7 @@ This JavaScript code fetches a random meal from (https://phase-1-project-fbbn.on
 
 
 ## Live Demo
-[Live Demo Link](https://abdurizak.github.io/phase-1-project/)
+[Live Demo Link]( https://abdurizak.github.io/project1/)
 
 ## How it Works
 
